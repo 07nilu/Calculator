@@ -79,7 +79,7 @@ button{
 
 @media (max-width: 480px) {
     input {
-        width: 180px;
+        width: 210px;
         font-size: 24px;
         padding: 16px;
     }
